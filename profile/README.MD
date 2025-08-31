@@ -10,3 +10,5 @@ The smart contract itself and indexer/API service are open-source, so anyone wil
 On top of that we are planning to offer additional APIs, JS SDK and tooling to provide a programming interface fully backwards compatible with Horizon, hugely simplifying the transition for any existing wallet or trading interface that supports Stellar DEX.
 
 In addition to standard limit orders, the orderbook will also have extension capabilities to support advanced order types to provide CEX-like trading experience: stop-loss, trailing stop-loos, fill-or-kill, iceberg, etc.
+
+![Orderbook flowchart](./flowchart.svg)
