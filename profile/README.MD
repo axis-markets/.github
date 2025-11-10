@@ -1,3 +1,5 @@
+![AXIS](./axis-main-bg-header.jpg)
+
 # AXIS - Stellar limit orderbook backwards compatible with Classic DEX
 
 _by [StellarExpert](https://stellar.expert) and [Aquarius](https://aqua.network)_
