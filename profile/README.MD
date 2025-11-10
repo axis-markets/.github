@@ -39,7 +39,7 @@ backwards compatible with Classic DEX.
 
 ![Orderbook flowchart](./flowchart.svg)
 
-### Orderbook Smart Contract
+### Orderbook Smart Contract ([🔗source](https://github.com/axis-markets/orderbook))
 
 Stores all active orders on-chain, maintains order state, provides decentralized access to exchange functionality. The smart contract does NOT contain routing and matching logic (kept off-chain), it is only responsible for trade conditions verification and actual order execution.
 
